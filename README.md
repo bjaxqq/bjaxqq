@@ -9,6 +9,12 @@
     <a href="https://stackoverflow.com/users/19327189/brooks-a-jackson"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style-flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
 </div>
 
+## Personal Stuff:
+* 🔭 I'm currently working on projects for my CSC111 class;
+* 🌱 I'm currently learning Java and HTML and CSS;
+* 🎸 I love playing and listening to music;
+* ⌨️ Fun Fact: I have build three custom keyboards before!
+
 ## Current Classes:
 
 Quinnipiac University
@@ -17,3 +23,10 @@ Quinnipiac University
 * CSC205 (Discrete Math)
 * SER120 (Object Oriented Programming and Design)
 * SER120L (Corresponding lab for SER120)
+
+## PC Components:
+
+* CPU: AMD Ryzen 5 5600X 6-Core
+* RAM: CORSAIR Vengeance 16GB
+* CASE: NZXT H510 (White)
+* GPU: NVIDIA GeForce RTX 3060
