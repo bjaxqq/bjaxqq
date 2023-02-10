@@ -31,5 +31,6 @@ Quinnipiac University
 * CASE: NZXT H510 (White)
 * GPU: NVIDIA GeForce RTX 3060
 
-## GitHub Stats:
-[(https://github-readme-stats.vercel.app/api?username=bjaxqq&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=bjaxqq&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
