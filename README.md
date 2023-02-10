@@ -30,3 +30,5 @@ Quinnipiac University
 * RAM: CORSAIR Vengeance 16GB
 * CASE: NZXT H510 (White)
 * GPU: NVIDIA GeForce RTX 3060
+
+[![Brooks' GitHub stats](https://github-readme-stats.vercel.app/api?username=bjaxqq&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
