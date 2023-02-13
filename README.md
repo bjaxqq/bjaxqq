@@ -28,6 +28,12 @@ Quinnipiac University
 * SER120 (Object Oriented Programming and Design)
 * SER120L (Corresponding lab for SER120)
 
+Codecadamy
+* [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+
+YouTube
+* [Stanford CS229: Machine Learning with Andrew Ng](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
 ## PC Components:
 
 * CPU: AMD Ryzen 5 5600X 6-Core
