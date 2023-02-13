@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/brooks-jackson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://stackoverflow.com/users/19327189/brooks-a-jackson"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style-flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
     <br />
-    [<img alt="Java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />][blog]
+    <img alt="Java" width="30px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" />
 </div>
 
 ## Personal Stuff:
