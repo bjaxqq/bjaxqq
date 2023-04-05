@@ -22,7 +22,7 @@
 ## Current Classes:
 
 Quinnipiac University
-* CSC111 (Data Structures and Abstraction) <img alt="Java" width="20px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/java/java.svg" />
+* CSC111 (Data Structures and Abstraction) 
 * CSC111L (Corresponding lab for CSC111)
 * CSC205 (Discrete Math)
 * SER120 (Object Oriented Programming and Design)
