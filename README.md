@@ -14,7 +14,7 @@
 </div>
 
 ## Personal Stuff:
-* 🔭 I'm currently working on projects for my [CSC111](https://github.com/bjaxqq/CSC111) class;
+* 🔭 I'm currently working on projects for my [CSC111](https://github.com/bjaxqq/CSC111) and [SER120](https://github.com/bjaxqq/SER120) classes;
 * 🌱 I'm currently learning Java and HTML and CSS;
 * 🎸 I love playing and listening to music;
 * ⌨️ Fun Fact: I have build three custom keyboards before!
