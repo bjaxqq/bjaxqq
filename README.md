@@ -35,7 +35,7 @@ YouTube
 * [CSC110L](https://github.com/bjaxqq/CSC110L) - Programming and Problem Solving Lab
 * [CSC111](https://github.com/bjaxqq/CSC111) - Data Structure and Abstraction
 * [SER120](https://github.com/bjaxqq/SER120) - Object-Oriented Design
-* SER120L - Object-Oriented Design Lab
+* [SER120L](https://github.com/bjaxqq/SER120L) - Object-Oriented Design Lab
 
 ## PC Components:
 
