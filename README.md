@@ -30,7 +30,7 @@ YouTube
 
 ## Previous Classes:
 
-### Quinnipiac University
+#### Quinnipiac University
 * [CSC110](https://github.com/bjaxqq/CSC110) - Programming and Problem Solving
 * CSC110L - Programming and Problem Solving Lab
 * [CSC111](https://github.com/bjaxqq/CSC111) - Data Structure and Abstraction
