@@ -14,22 +14,16 @@
 </div>
 
 ## Personal Stuff:
-* 🔭 I'm currently working on projects for my [CSC111](https://github.com/bjaxqq/CSC111) and [SER120](https://github.com/bjaxqq/SER120) classes;
-* 🌱 I'm currently learning Java and HTML and CSS;
+* 🔭 I'm currently out for summer break so I have no coursework until the fall, but my freshamn year coursework is under my [repositories](https://github.com/bjaxqq?tab=repositories);
+* 🌱 I'm currently learning Java and HTML and CSS through [Codecademy](https://www.codecademy.com/);
 * 🎸 I love playing and listening to music;
 * ⌨️ Fun Fact: I have build three custom keyboards before!
 
 ## Current Classes:
 
-Quinnipiac University
-* CSC111 (Data Structures and Abstraction) 
-* CSC111L (Corresponding lab for CSC111)
-* CSC205 (Discrete Math)
-* SER120 (Object Oriented Programming and Design)
-* SER120L (Corresponding lab for SER120)
-
 Codecadamy
 * [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+* [Learn Python](https://www.codecademy.com/learn/learn-python-3)
 
 YouTube
 * [Stanford CS229: Machine Learning with Andrew Ng](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
