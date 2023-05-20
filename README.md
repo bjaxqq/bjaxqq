@@ -29,6 +29,8 @@ YouTube
 * [Stanford CS229: Machine Learning with Andrew Ng](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 ## Previous Classes:
+
+### Quinnipiac University
 * [CSC110](https://github.com/bjaxqq/CSC110) - Programming and Problem Solving
 * CSC110L - Programming and Problem Solving Lab
 * [CSC111](https://github.com/bjaxqq/CSC111) - Data Structure and Abstraction
