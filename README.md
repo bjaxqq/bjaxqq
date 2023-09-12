@@ -8,25 +8,28 @@
     <a href="https://www.linkedin.com/in/brooks-jackson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://stackoverflow.com/users/19327189/brooks-a-jackson"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style-flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
     <br />
+    <img alt="CSS" width="50px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/css/css.svg" />
     <img alt="C++" width="50px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" />
+    <img alt="HTML" width="50px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/html/html.svg" />
     <img alt="Java" width="50px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/java/java.svg" />
     <img alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/javascript/javascript.svg" />
+    <img alt="Kotlin" width="50px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/kotlin/kotlin.svg" />
+    <img alt="React" width="50px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/react/react.svg" />
+    <img alt="TypeScript" width="50px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/typescript/typescript.svg" />
+    
 </div>
 
 ## Personal Stuff:
-* 🔭 I'm currently out for summer break so I have no coursework until the fall, but my freshamn year coursework is under my [repositories](https://github.com/bjaxqq?tab=repositories);
+* 🔭 I'm currently in my first semester of the 2023-2024 school year;
 * 🌱 I'm currently learning Java and HTML and CSS through [Codecademy](https://www.codecademy.com/);
 * 🎸 I love playing and listening to music;
 * ⌨️ Fun Fact: I have build three custom keyboards before!
 
 ## Current Classes:
 
-Codecadamy
-* [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-* [Learn Python](https://www.codecademy.com/learn/learn-python-3)
-
-YouTube
-* [Stanford CS229: Machine Learning with Andrew Ng](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+#### Quinnipiac University
+* [SER225](https://github.com/bjaxqq/SER225) - Intro to Software Development
+* [CSC215](https://github.com/bjaxqq/CSC215) - Algorithm Design and Analysis
 
 ## Previous Classes:
 
