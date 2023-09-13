@@ -20,7 +20,7 @@
 </div>
 
 ## Personal Stuff:
-* 🔭 I'm currently in my first semester of the 2023-2024 school year;
+* 🔭 I'm currently in my first semester of the 2023-2024 school year (sophomore year);
 * 🌱 I'm currently learning algorithm design and software development;
 * 🎸 I love playing and listening to music;
 * ⌨️ Fun Fact: I have build three custom keyboards before!
