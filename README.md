@@ -24,8 +24,7 @@
 ## Current Classes:
 
 #### Quinnipiac University
-* [SER225](https://github.com/bjaxqq/SER225) - Intro to Software Development
-* [CSC215](https://github.com/bjaxqq/CSC215) - Algorithm Design and Analysis
+* [SER225](https://github.com/Sligertiger1230/SER-225-Game) - Intro to Software Development
 
 ## Previous Classes:
 
