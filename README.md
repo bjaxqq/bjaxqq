@@ -15,11 +15,15 @@
     
 </div>
 
-## Personal Stuff:
+## Fun Facts:
 * 🔭 I'm currently in my first semester of the 2023-2024 school year (sophomore year);
 * 🌱 I'm currently learning algorithm design and software development;
 * 🎸 I love playing and listening to music;
 * ⌨️ Fun Fact: I have build three custom keyboards before!
+
+## Personal Projects:
+* [Tetris](https://github.com/bjaxqq/tetris)
+* [Hackathon Timer](https://github.com/jubck/jubck.github.io)
 
 ## Current Classes:
 
