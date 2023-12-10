@@ -14,6 +14,7 @@
 </div>
 
 ## About me
+
 * 🔭 I'm currently in my first semester of the 2023-2024 school year (sophomore year)
 * 🌱 I'm currently learning algorithm design and software development
 * 🎸 I love playing and listening to music
@@ -21,9 +22,16 @@
 
 ## Projects
 
-* [Tetris](https://github.com/bjaxqq/tetris)
-* [Hackathon Timer](https://github.com/jubck/jubck.github.io)
-* [Quinnipiac: A Campus Game](https://github.com/Sligertiger1230/SER-225-Game)
+### Current Projects
+
+* [Nordboard] - A Stylus theme for Blackboard with the Nord color scheme
+* [Nordit] - A Stylus theme for Reddit with the Nord color scheme
+
+### Finished Projects
+
+* [Tetris](https://github.com/bjaxqq/tetris) - A recreation of the classic game Tetris
+* [Hackathon Timer](https://github.com/jubck/jubck.github.io) - A timer for the Quinnipiac Hackathon
+* [Quinnipiac: A Campus Game](https://github.com/Sligertiger1230/SER-225-Game) - An original game about Quinnipiac
 
 ## Classes
 
