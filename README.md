@@ -22,11 +22,6 @@
 
 ## Projects
 
-### Current Projects
-
-* [Nordboard](https://github.com/bjaxqq/nordboard)- A Stylus theme for Blackboard with the Nord color scheme
-* [Norddit](https://github.com/bjaxqq/norddit) - A Stylus theme for Reddit with the Nord color scheme
-
 ### Finished Projects
 
 * [Tetris](https://github.com/bjaxqq/tetris) - A recreation of the classic game Tetris
