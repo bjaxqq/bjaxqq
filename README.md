@@ -15,8 +15,8 @@
 
 ## About me
 
-* 🔭 I'm currently in my first semester of the 2023-2024 school year (sophomore year)
-* 🌱 I'm currently learning algorithm design and software development
+* 🔭 I'm currently in my second semester of the 2023-2024 school year (sophomore year)
+* 🌱 I'm currently learning computer arcitecture, Android development, and game design with Unity
 * 🎸 I love playing and listening to music
 * ⌨️ Fun Fact: I have build three custom keyboards before!
 
