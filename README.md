@@ -18,17 +18,12 @@
 
 ## About me
 
-* 🔭 I'm currently in my first semester of the 2023-2024 school year (sophomore year)
-* 🌱 I'm currently learning algorithm design and software development
+* 🔭 I'm currently in my second semester of the 2023-2024 school year (sophomore year)
+* 🌱 I'm currently learning computer arcitecture, Android development, and game design with Unity
 * 🎸 I love playing and listening to music
 * ⌨️ Fun Fact: I have build three custom keyboards before!
 
 ## Projects
-
-### Current Projects
-
-* [Nordboard](https://github.com/bjaxqq/nordboard)- A Stylus theme for Blackboard with the Nord color scheme
-* [Norddit](https://github.com/bjaxqq/norddit) - A Stylus theme for Reddit with the Nord color scheme
 
 ### Finished Projects
 
