@@ -42,12 +42,20 @@
 
 ### Previous Classes
 
+#### Fall 2022
+
 * [CSC110](https://github.com/bjaxqq/CSC110) - Programming and Problem Solving
 * [CSC110L](https://github.com/bjaxqq/CSC110L) - Programming and Problem Solving Lab
+
+#### Spring 2023
+
 * [CSC111](https://github.com/bjaxqq/CSC111) - Data Structure and Abstraction
-* [GDD140](https://github.com/bjaxqq/GDD140) - Creativity and Computation
 * [SER120](https://github.com/bjaxqq/SER120) - Object-Oriented Design
 * [SER120L](https://github.com/bjaxqq/SER120L) - Object-Oriented Design Lab
+
+#### Fall 2023
+
+* [GDD140](https://github.com/bjaxqq/GDD140) - Creativity and Computation
 * [SER225](https://github.com/Sligertiger1230/SER-225-Game) - Intro to Software Development
 
 ## GitHub Stats
