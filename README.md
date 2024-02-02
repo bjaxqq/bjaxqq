@@ -29,7 +29,7 @@
 
 * [Tetris](https://github.com/bjaxqq/tetris) - A recreation of the classic game Tetris
 * [Hackathon Timer](https://github.com/jubck/jubck.github.io) - A timer for the Quinnipiac Hackathon
-* [Quinnipiac: A Campus Game](https://github.com/Sligertiger1230/SER-225-Game) - An original game about Quinnipiac
+* [Quinnipiac: A Campus Game](https://a-r-t.github.io/SER225-Project-Website/semesters/fall2023/teams/art) - An original game about Quinnipiac University
 
 ## Classes
 
