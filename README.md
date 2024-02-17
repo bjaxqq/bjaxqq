@@ -3,7 +3,8 @@
 CS/Cybersecurity student at Quinnipiac University.
 <br/>Focused on expanding my project diversity and codebase knowledge.
 
-<img align="left" src=".github/assets/anime.gif" width="55%" height="55%" />
+<img align="left" src=".github/assets/anime.gif" width="55%" height="55%" /><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ## 💻 Experience
 
