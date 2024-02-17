@@ -5,7 +5,7 @@ CS/Cybersecurity student at Quinnipiac University.
 
 ## 💻 Experience
 
-<img align="right" src=".github/assets/anime.gif" width="50%" height="50%" style="margin-top: -43px;" />
+<img align="right" src=".github/assets/anime.gif" width="55%" height="55%" style="margin-top: -43px;" />
 
 ### Languages
 
