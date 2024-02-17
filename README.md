@@ -5,8 +5,6 @@ CS/Cybersecurity student at Quinnipiac University.
 
 ## 💻 Experience
 
-<img align="right" src=".github/assets/anime.gif" width="55%" height="55%" style="margin-top: 70px;" />
-
 ### Languages
 
 [![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
@@ -17,6 +15,8 @@ CS/Cybersecurity student at Quinnipiac University.
 [![Markdown Badge](https://img.shields.io/badge/markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Scala Badge](https://img.shields.io/badge/scala-DC322F?style=flat&logo=scala&logoColor=white)](https://www.scala-lang.org/)
 [![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+<img align="right" src=".github/assets/anime.gif" width="55%" height="55%" style="margin-top: 70px;" />
 
 ### Frameworks
 
