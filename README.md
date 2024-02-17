@@ -30,6 +30,7 @@
 * [Tetris](https://github.com/bjaxqq/tetris) - A recreation of the classic game Tetris
 * [Hackathon Timer](https://github.com/jubck/jubck.github.io) - A timer for the Quinnipiac Hackathon
 * [Quinnipiac: A Campus Game](https://a-r-t.github.io/SER225-Project-Website/semesters/fall2023/teams/art) - An original game about Quinnipiac University
+* [InfiniteSearch](https://github.com/bjaxqq/InfiniteSearch) - A web scraper for crafts in the web game [Infinite Craft](https://neal.fun/infinite-craft/)
 
 ## Classes
 
