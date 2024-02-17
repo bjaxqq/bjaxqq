@@ -9,12 +9,15 @@ CS/Cybersecurity student at Quinnipiac University.
 
 <img align="right" src=".github/assets/anime.gif" width="55%" height="55%" style="margin-top: 70px;" />
 
+[![C Sharp Badge](https://img.shields.io/badge/csharp-A37CDF?style=flat&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
 [![Java Badge](https://img.shields.io/badge/java-3a75b0?style=flat&logo=java&logoColor=white)](https://www.java.com/en/download/help/whatis_java.html)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
+[![Kotlin Badge](https://img.shields.io/badge/kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![LaTeX Badge](https://img.shields.io/badge/latex-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/about/)
 [![Markdown Badge](https://img.shields.io/badge/markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Python Badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Scala Badge](https://img.shields.io/badge/scala-DC322F?style=flat&logo=scala&logoColor=white)](https://www.scala-lang.org/)
 [![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
