@@ -16,7 +16,7 @@ CS/Cybersecurity student at Quinnipiac University.
 [![Scala Badge](https://img.shields.io/badge/scala-DC322F?style=flat&logo=scala&logoColor=white)](https://www.scala-lang.org/)
 [![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-<img align="right" src=".github/assets/anime.gif" width="45%" height="45%" style="margin-top: -43px;" />
+<img align="right" src=".github/assets/anime.gif" width="50%" height="50%" style="margin-top: -43px;" />
 
 ### Frameworks
 
