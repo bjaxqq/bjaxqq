@@ -3,11 +3,11 @@
 CS/Cybersecurity student at Quinnipiac University.
 <br/>Focused on expanding my project diversity and codebase knowledge.
 
+<img align="left" src=".github/assets/anime.gif" width="55%" height="55%" />
+
 ## 💻 Experience
 
 ### Languages
-
-<img align="right" src=".github/assets/anime.gif" width="55%" height="55%" style="margin-top: 70px;" />
 
 [![C Sharp Badge](https://img.shields.io/badge/csharp-A37CDF?style=flat&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
