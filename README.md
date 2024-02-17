@@ -34,12 +34,6 @@ CS/Cybersecurity student at Quinnipiac University.
 [![Visual Studio Badge](https://img.shields.io/badge/visual%20studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![VS Code Badge](https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
-### Learning
-
-[![C Sharp Badge](https://img.shields.io/badge/csharp-A37CDF?style=flat&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![Kotlin Badge](https://img.shields.io/badge/kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Python Badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 20px;">
         <h2>Classes</h2>
