@@ -1,5 +1,3 @@
-<img align="right" src=".github/assets/anime.gif" width="50%" height="50%" />
-
 ## 🚀 hi, i'm brooks.
 
 CS/Cybersecurity student at Quinnipiac University.
@@ -17,6 +15,8 @@ CS/Cybersecurity student at Quinnipiac University.
 [![Markdown Badge](https://img.shields.io/badge/markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Scala Badge](https://img.shields.io/badge/scala-DC322F?style=flat&logo=scala&logoColor=white)](https://www.scala-lang.org/)
 [![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+<img align="right" src=".github/assets/anime.gif" width="50%" height="50%" style="margin-top: -43px;" />
 
 ### Frameworks
 
