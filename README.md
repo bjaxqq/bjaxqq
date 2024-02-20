@@ -1,4 +1,4 @@
-## 🚀 hi, i'm brooks!
+## 🚀 Hi, I'm Brooks!
 
 CS/Cybersecurity student at Quinnipiac University.
 <br/>Focused on expanding my project diversity and codebase knowledge.
@@ -40,7 +40,7 @@ CS/Cybersecurity student at Quinnipiac University.
 
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 20px;">
-        <h2>Classes</h2>
+        <h2>📚 Classes</h2>
             <h3>Current Classes</h3>
                 <li><a href="https://github.com/bjaxqq/CSC210">CSC210</a> - Computer Architecture and Organization</li>
                 <li><a href="https://github.com/bjaxqq/GDD200">GDD200</a> - Intro to Game Development</li>
@@ -56,14 +56,15 @@ CS/Cybersecurity student at Quinnipiac University.
                 <li><a href="https://github.com/bjaxqq/SER225">SER225</a> - Intro to Software Development</li>
     </div>
     <div style="flex: 1;">
-        <h2>Projects</h2>
-            <h3>Finished Projects</h3>
+        <h2>🚧 Projects</h2>
+            <h3>Closed Projects</h3>
                 <li><a href="https://github.com/bjaxqq/tetris">Tetris</a> - A recreation of the classic game Tetris</li>
                 <li><a href="https://github.com/jubck/jubck.github.io">Hackathon Timer</a> - A timer for the Quinnipiac Hackathon</li>
                 <li><a href="https://a-r-t.github.io/SER225-Project-Website/semesters/fall2023/teams/art">Quinnipiac: A Campus Game</a> - An original game about Quinnipiac University</li>
                 <li><a href="https://github.com/bjaxqq/InfiniteSearch">InfiniteSearch</a> - A web scraper for crafts in the web game Infinite Craft</li>
                 <li><a href="https://github.com/bjaxqq/bjaxqq.github.io">Terminal</a> - A unique portfolio website inspired by a terminal</li>
-                <li><a href="https://github.com/bjaxqq/workspaceflow">WorkSpaceFlow</a>[WIP] - A productivity-optimizing window manager</li>
+            <h3>Open Projects</h3>
+                <li><a href="https://github.com/bjaxqq/workspaceflow">WorkSpaceFlow</a> - A productivity-optimizing window manager</li>
     </div>
 </div>
 
