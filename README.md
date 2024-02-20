@@ -68,6 +68,6 @@ CS/Cybersecurity student at Quinnipiac University.
     </div>
 </div>
 
-## Github Stuff
+## 🐙 Github Stuff
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=bjaxqq&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
