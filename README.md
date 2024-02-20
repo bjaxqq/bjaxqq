@@ -1,4 +1,4 @@
-## 🚀 hi, i'm brooks.
+## 🚀 hi, i'm brooks!
 
 CS/Cybersecurity student at Quinnipiac University.
 <br/>Focused on expanding my project diversity and codebase knowledge.
