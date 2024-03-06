@@ -63,8 +63,6 @@ CS/Cybersecurity student at Quinnipiac University.
                 <li><a href="https://a-r-t.github.io/SER225-Project-Website/semesters/fall2023/teams/art">Quinnipiac: A Campus Game</a> - An original game about Quinnipiac University</li>
                 <li><a href="https://github.com/bjaxqq/InfiniteSearch">InfiniteSearch</a> - A web scraper for crafts in the web game Infinite Craft</li>
                 <li><a href="https://github.com/bjaxqq/bjaxqq.github.io">Terminal</a> - A unique portfolio website inspired by a terminal</li>
-            <h3>Open Projects</h3>
-                <li><a href="https://github.com/bjaxqq/workspaceflow">WorkSpaceFlow</a> - A productivity-optimizing window manager</li>
     </div>
 </div>
 
