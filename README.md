@@ -37,7 +37,7 @@ CS/Cybersecurity student at Quinnipiac University.
 [![GitHub Badge](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Badge](https://img.shields.io/badge/visual%20studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![VS Code Badge](https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
+[![neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
 
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 20px;">
