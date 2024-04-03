@@ -64,7 +64,7 @@ CS/Cybersecurity student at Quinnipiac University.
                 <li><a href="https://github.com/bjaxqq/InfiniteSearch">InfiniteSearch</a> - A web scraper for crafts in the web game Infinite Craft</li>
                 <li><a href="https://github.com/bjaxqq/bjaxqq.github.io">Portfolio</a> - A portfolio website</li>
                 <li><a href="https://github.com/bjaxqq/terminal">Terminal</a> - An interactive web terminal</li>
-                <li><a href="https://github.com/bjaxqq/quotes">Terminal</a> - A daily stoicism quote generator</li>
+                <li><a href="https://github.com/bjaxqq/quotes">Quotes</a> - A daily stoicism quote generator</li>
     </div>
 </div>
 
