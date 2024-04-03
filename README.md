@@ -35,9 +35,9 @@ CS/Cybersecurity student at Quinnipiac University.
 [![Intellij Badge](https://img.shields.io/badge/intellij-000000?style=flat&logo=intellij%20idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Git Badge](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Badge](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Visual Studio Badge](https://img.shields.io/badge/visual%20studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![VS Code Badge](https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
 
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 20px;">
