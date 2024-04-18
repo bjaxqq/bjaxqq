@@ -40,22 +40,6 @@ CS/Cybersecurity student at Quinnipiac University.
 [![VS Code Badge](https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 <div style="display: flex;">
-    <div style="flex: 1; margin-right: 20px;">
-        <h2>📚 Classes</h2>
-            <h3>Current Classes</h3>
-                <li><a href="https://github.com/bjaxqq/CSC210">CSC210</a> - Computer Architecture and Organization</li>
-                <li><a href="https://github.com/bjaxqq/GDD200">GDD200</a> - Intro to Game Development</li>
-                <li><a href="https://github.com/bjaxqq/GDD316">GDD316</a> - Advanced Game Development Topics</li>
-                <li><a href="https://github.com/bjaxqq/SER210">SER210</a> - Software Engineering Design and Development</li>
-            <h3>Previous Classes</h3>
-                <li><a href="https://github.com/bjaxqq/CSC110">CSC110</a> - Programming and Problem Solving</li>
-                <li><a href="https://github.com/bjaxqq/CSC110L">CSC110L</a> - Programming and Problem Solving Lab</li>
-                <li><a href="https://github.com/bjaxqq/CSC111">CSC111</a> - Data Structure and Abstraction</li>
-                <li><a href="https://github.com/bjaxqq/GDD140">GDD140</a> - Creativity and Computation</li>
-                <li><a href="https://github.com/bjaxqq/SER120">SER120</a> - Object-Oriented Design</li>
-                <li><a href="https://github.com/bjaxqq/SER120L">SER120L</a> - Object-Oriented Design Lab</li>
-                <li><a href="https://github.com/bjaxqq/SER225">SER225</a> - Intro to Software Development</li>
-    </div>
     <div style="flex: 1;">
         <h2>🚧 Projects</h2>
             <h3>Open Projects</h3>
