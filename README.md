@@ -58,6 +58,8 @@ CS/Cybersecurity student at Quinnipiac University.
     </div>
     <div style="flex: 1;">
         <h2>🚧 Projects</h2>
+            <h3>Open Projects</h3>
+                <li><a href="https://github.com/bajackson1/QuinnipiacTracker">Quinnipiac Tracker</a> - A location tracking app for Quinnipiac University</li>
             <h3>Closed Projects</h3>
                 <li><a href="https://github.com/bjaxqq/tetris">Tetris</a> - A recreation of the classic game Tetris</li>
                 <li><a href="https://github.com/jubck/jubck.github.io">Hackathon Timer</a> - A timer for the Quinnipiac Hackathon</li>
