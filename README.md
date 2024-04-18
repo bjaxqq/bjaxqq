@@ -8,7 +8,7 @@ CS/Cybersecurity student at Quinnipiac University.
 
 ## 💻 Experience
 
-### 👾 Languages
+### Languages
 
 [![C Sharp Badge](https://img.shields.io/badge/csharp-A37CDF?style=flat&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
