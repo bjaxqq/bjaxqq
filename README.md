@@ -57,4 +57,4 @@ CS/Cybersecurity student at Quinnipiac University.
 
 ## 🐙 Github Stuff
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=bjaxqq&show_icons=true&bg_color=eff1f5&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=bjaxqq&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=7287fd&title_color=8839ef)](https://github.com/anuraghazra/github-readme-stats)
