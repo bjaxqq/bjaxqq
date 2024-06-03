@@ -39,8 +39,6 @@ CS/Cybersecurity student at Quinnipiac University.
 <div style="display: flex;">
     <div style="flex: 1;">
         <h2>🚧 Projects</h2>
-            <h3>Open Projects</h3>
-                <li><a href="https://github.com/bajackson1/QuinnipiacTracker">Quinnipiac Tracker</a> - A location tracking app for Quinnipiac University</li>
             <h3>Closed Projects</h3>
                 <li><a href="https://github.com/bjaxqq/tetris">Tetris</a> - A recreation of the classic game Tetris</li>
                 <li><a href="https://github.com/jubck/jubck.github.io">Hackathon Timer</a> - A timer for the Quinnipiac Hackathon</li>
@@ -49,6 +47,7 @@ CS/Cybersecurity student at Quinnipiac University.
                 <li><a href="https://github.com/bjaxqq/bjaxqq.github.io">Portfolio</a> - A portfolio website</li>
                 <li><a href="https://github.com/bjaxqq/terminal">Terminal</a> - An interactive web terminal</li>
                 <li><a href="https://github.com/bjaxqq/quotes">Quotes</a> - A daily stoicism quote generator</li>
+                <li><a href="https://github.com/bajackson1/QuinnipiacTracker">Quinnipiac Tracker</a> - A location tracking app for Quinnipiac University</li>
     </div>
 </div>
 
