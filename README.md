@@ -34,13 +34,13 @@ CS/Cybersecurity student at Quinnipiac University.
 [![VS Code Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 ### Libraries
-[![Python Badge](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Python Badge](https://img.shields.io/badge/Selenium-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Python Badge](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Python Badge](https://img.shields.io/badge/NumPy-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Python Badge](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Python Badge](https://img.shields.io/badge/Pandas-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Python Badge](https://img.shields.io/badge/TensorFlow-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Python Badge](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)](https://pypi.org/project/beautifulsoup4/)
+[![Python Badge](https://img.shields.io/badge/Selenium-3776AB?style=flat&logo=python&logoColor=white)](https://pypi.org/project/selenium/)
+[![Python Badge](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white)](https://pypi.org/project/requests/)
+[![Python Badge](https://img.shields.io/badge/NumPy-3776AB?style=flat&logo=python&logoColor=white)](https://pypi.org/project/numpy/)
+[![Python Badge](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white)](https://pypi.org/project/matplotlib/)
+[![Python Badge](https://img.shields.io/badge/Pandas-3776AB?style=flat&logo=python&logoColor=white)](https://pypi.org/project/pandas/)
+[![Python Badge](https://img.shields.io/badge/TensorFlow-3776AB?style=flat&logo=python&logoColor=white)](https://pypi.org/project/tensorflow/)
 
 
 <div style="display: flex;">
