@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Brooks!
 
-CS/Cybersecurity student at Quinnipiac University.
+Computer Science Student at Quinnipiac University.
 <br/>Focused on expanding my project diversity and codebase knowledge.
 
 ## 💻 Experience
