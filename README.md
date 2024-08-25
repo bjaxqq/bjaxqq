@@ -60,5 +60,4 @@ Computer Science Student at Quinnipiac University.
 
 ## 🐙 Github Stuff
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bjaxqq&show_icons=true&theme=catpuccin_latte&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bjaxqq&layout=compact&langs_count=8&theme=catpuccin_latte"/>
+<img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bjaxqq&show_icons=true&theme=catpuccin_latte&include_all_commits=true&count_private=true"/><img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bjaxqq&layout=compact&langs_count=8&theme=catpuccin_latte"/>
