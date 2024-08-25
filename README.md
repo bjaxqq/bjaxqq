@@ -1,17 +1,13 @@
-``
-           MMM.           .MMM               Brooks Jackson **@bjaxqq**
-           MMMMMMMMMMMMMMMMMMM               -------------------------------
-           MMMMMMMMMMMMMMMMMMM               **Uptime:** 20 years, 8 months
-          MMMMMMMMMMMMMMMMMMMMM              **OS:** MacOS
-         MMMMMMMMMMMMMMMMMMMMMMM             **Shell:** kitty
-        MMMMMMMMMMMMMMMMMMMMMMMM             **Terminal:** fish
-        MMMM::- -:::::::- -::MMMM            **Editor:** Zed
-         MM~:~   ~:::::~   ~:~MM             **Languages:** CSS, HTML,
-    .. MMMMM::. .:::+:::. .::MMMMM ..        Java, JavaScript, Kotlin,
-          .MM::::: ._. :::::MM.              LaTeX, Markdown, Python
-             MMMM;:::::;MMMM                 **Frameworks:** Node.js, React.js
-              MMMMMMMMMMMM                   **Libraries:** BeautifulSoup, NumPy,
-                MMMMMMMM                     Selenium, Pandas
-                  MMMM                       -------------------------------
-                                             **GitHub:** github.com/bjaxqq
-                                             **LinkedIn:** in/brooks-jackson
+```bash
+$ neofetch
+
+username: bjaxqq
+os: MacOS
+shell: kitty
+terminal: fish
+editor: zed/vim
+uptime: 20y 8m
+Language: CSS, HTML, Java, JavaScript, Kotlin, LaTeX, Markdown, Python
+Frameworks: Node.js, React.js
+Developer Tools: Android Studio, Eclipse, IntelliJ, Git, GitHub, Neovim, Visual Studio, VSCode
+Libraries: BeautifulSoup, Selenium, Requests, NumPy, Matplotlib, Pandas, TensorFlow
