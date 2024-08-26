@@ -5,7 +5,7 @@ username: bjaxqq
 os: MacOS
 shell: kitty
 terminal: fish
-editor: zed/vim
+editor: zed/neovim
 uptime: 20y 8m
 Language: CSS, HTML, Java, JavaScript, Kotlin, LaTeX, Markdown, Python
 Frameworks: Node.js, React.js
