@@ -1,5 +1,5 @@
 ```bash
-$ neofetch
+$ bjaxqqfetch
 
 username: bjaxqq
 os: MacOS
