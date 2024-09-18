@@ -4,8 +4,8 @@ $ neofetch
 Username: bjaxqq
 OS: MacOS
 Shell: kitty
-Terminal: fish
-Editor: zed/neovim
+Terminal: zsh
+Editor: zed/vim
 Uptime: 20y 9m
 Languages: CSS, HTML, Java, JavaScript, Kotlin, LaTeX, Markdown, Python
 Frameworks: Node.js, React.js
