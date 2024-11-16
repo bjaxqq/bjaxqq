@@ -3,10 +3,10 @@ $ neofetch
 
 Username: bjaxqq
 OS: MacOS
-Shell: kitty
+Shell: iTerm2
 Terminal: zsh
-Editor: zed/vim
-Uptime: 20y 9m
+Editor: vscode/vim
+Uptime: 21y 0m
 Languages: CSS, HTML, Java, JavaScript, Kotlin, LaTeX, Markdown, Python
 Frameworks: Node.js, React.js
 Developer Tools: Android Studio, Eclipse, IntelliJ, Git, GitHub, Neovim, Visual Studio, VSCode
