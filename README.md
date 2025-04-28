@@ -15,9 +15,9 @@ $ neofetch
 .. ...%@*@@@@..@@@@.......@@@@@.:.:.%#@%@@@=**+=..  Editor: VSCode/Vim
 ...:.%.%@@@@@@.@@@@.......#@@-@....**@*@@-#:@%=*..  Languages: CSS, HTML, Java, JavaScript, Kotlin, LaTeX,
 .....-.*@%%@*..............@@:.....#*#@%=.#@.@@@%.  Markdown, Python, C#
-........@@%@.......................#*@@+=.....@@+.  Frameworks: Node.js, React.js
-....- ..+@%@#......................*:.@=+.....*#..  Developer Tools: Android Studio, Eclipse, IntelliJ, Git,
-....+...+..#+.......:=:............#%+..@. ...@...  GitHub, Neovim, Visual Studio, VSCode
+........@@%@.......................#*@@+=.....@@+.  Frontend: React, Three.js, React Three Fiber, Vite, HTML5 Canvas
+....- ..+@%@#......................*:.@=+.....*#..  Backend/APIs: Node.js, REST APIs, Last.fm API, JSON
+....+...+..#+.......:=:............#%+..@. ...@...  Developer Tools: Git, VS Code, Vercel, npm, Android Studio
 ....% ....* ..#...........+.........@@:......@....  Libraries: BeautifulSoup, Selenium, Requests, NumPy,
 ...........:.%. % ...:*:%........:..........+.....  Matplotlib, Pandas, TensorFlow
 ........-....@..:...@:.. ....-*...... .....-.. ...  Favorites: Hiking, Mountain Biking, Playing Guitar,
