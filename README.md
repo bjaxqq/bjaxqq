@@ -1,4 +1,4 @@
-```bash
+```
 $ neofetch
 
           ,~-.                        bjaxqq@github.com
@@ -15,7 +15,7 @@ $ neofetch
    ,~-. `%\:::|888/#'(  (     ') )    Languages: Python, Java, JavaScript/TypeScript, C#, HTML/CSS
   (  ) )_ `\__|__/'   `~-~=--~~='     Frontend: React, React Three Fiber, Three.js, Vite
  ( ` ')  ) [VVVVV]                    Backend/APIs: Node.js, REST APIs, Last.fm API, JSON
-(_(_.~~~'   \|_|/   baj               Developer Tools: Git, VS Code, Vercel, npm, Android Studio
+(_(_.~~~'   \|_|/                     Developer Tools: Git, VS Code, Vercel, npm, Android Studio
             [XXX]                     Libraries: Playwright, Pandas, NumPy, Selenium, TensorFlow,
             `"""'                     Fuzzy Wuzzy, Matplotlib
                                       Favorites: Coding, Building Keyboards, Mountain Biking,
