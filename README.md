@@ -1,5 +1,5 @@
 ```
-$ neofetch
+ $ neofetch
 
           ,~-.                        bjaxqq@github.com
          (  ' )-.          ,~'`-.     -----------------
