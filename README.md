@@ -3,15 +3,15 @@
 
           ,~-.                        bjaxqq@github.com
          (  ' )-.          ,~'`-.     -----------------
-      ,~' `  ' ) )       _(   _) )    OS: Pop!_OS 24.04 LTS
+      ,~' `  ' ) )       _(   _) )    OS: Omarchy 3.1.5
      ( ( .--.===.--.    (  `    ' )   Uptime: 21y 11m
       `.%%.;::|888.#`.   `-'`~~=~'    Shell: bash
-      /%%/::::|8888\##\               WM: Mutter (COSMIC) 
-     |%%/:::::|88888\##|              Terminal: GNOME Terminal
+      /%%/::::|8888\##\               WM: Hyprland 
+     |%%/:::::|88888\##|              Terminal: Alacritty
      |%%|:::::|88888|##|.,-.          CPU: AMD Ryzen 7 3700X
      \%%|:::::|88888|##/    )_        GPU: NVIDIA GeForce RTX 3060
       \%\:::::|88888/#/ ( `'  )       Memory: 16 GB
-       \%\::::|8888/#/(  ,  -'`-.     Editor: VSCodium/Vim
+       \%\::::|8888/#/(  ,  -'`-.     Editor: VSCodium/Neovim
    ,~-. `%\:::|888/#'(  (     ') )    Languages: Python, Java, JavaScript/TypeScript, C#, HTML/CSS
   (  ) )_ `\__|__/'   `~-~=--~~='     Frontend: React, React Three Fiber, Three.js, Vite
  ( ` ')  ) [VVVVV]                    Backend/APIs: Node.js, REST APIs, Last.fm API, JSON
