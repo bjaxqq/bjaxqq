@@ -12,7 +12,7 @@
      \%%|:::::|88888|##/    )_        GPU: NVIDIA GeForce RTX 3060
       \%\:::::|88888/#/ ( `'  )       Memory: 16 GB
        \%\::::|8888/#/(  ,  -'`-.     Editor: VSCodium/Neovim
-   ,~-. `%\:::|888/#'(  (     ') )    Languages: Python, Java, JavaScript/TypeScript, C#, HTML/CSS
+   ,~-. `%\:::|888/#'(  (     ') )    Languages: Python, Java, JavaScript/TypeScript, HTML/CSS, C, C#
   (  ) )_ `\__|__/'   `~-~=--~~='     Frontend: React, React Three Fiber, Three.js, Vite
  ( ` ')  ) [VVVVV]                    Backend/APIs: Node.js, REST APIs, Last.fm API, JSON
 (_(_.~~~'   \|_|/                     Developer Tools: Git, VS Code, Vercel, npm, Android Studio
