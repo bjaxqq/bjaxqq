@@ -3,8 +3,8 @@
 
           ,~-.                        bjaxqq@github.com
          (  ' )-.          ,~'`-.     -----------------
-      ,~' `  ' ) )       _(   _) )    OS: Omarchy v3.2.0
-     ( ( .--.===.--.    (  `    ' )   Uptime: 22y 0m
+      ,~' `  ' ) )       _(   _) )    OS: Omarchy v3.2.3
+     ( ( .--.===.--.    (  `    ' )   Uptime: 22y 1m
       `.%%.;::|888.#`.   `-'`~~=~'    Shell: bash
       /%%/::::|8888\##\               WM: Hyprland 
      |%%/:::::|88888\##|              Terminal: Alacritty
